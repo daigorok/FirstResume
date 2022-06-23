@@ -1,6 +1,6 @@
-* ## First Project
-(Horizeon)
-* # Description
+## First Project
+
+# Description
 
 
   * ## H2 입니다.
